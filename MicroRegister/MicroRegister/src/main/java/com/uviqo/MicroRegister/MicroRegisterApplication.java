@@ -1,0 +1,14 @@
+package com.uviqo.MicroRegister;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MicroRegisterApplication {
+
+	
+	public static void main(String[] args) {
+		SpringApplication.run(MicroRegisterApplication.class, args);
+	}
+
+}
